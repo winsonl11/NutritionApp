@@ -1,0 +1,25 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "nutrition!",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/winsonl11/Nutrition-App.git"
+  },
+  "keywords": [
+    "nutrition"
+  ],
+  "author": "Winson and Jiaxi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/winsonl11/Nutrition-App/issues"
+  },
+  "homepage": "https://github.com/winsonl11/Nutrition-App#readme",
+  "devDependencies": {
+    "electron": "^31.3.0"
+  }
+}
